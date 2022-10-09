@@ -13,7 +13,7 @@ Let us build a Generative adversarial model(modified U-Net) which can generate a
 references https://www.radiologymasterclass.co.uk/tutorials/mri/t1_and_t2_images
 
 ## Data Set
-The data can be downloaded from [here](https://drive.google.com/file/d/1FMQqDO1_c5yTP6z-96p1xSox5kFkExUB/view?usp=sharing).\
+The data can be downloaded from [here](https://github.com/GlennyDsouza/Generative-adversarial-networks/blob/536f88ee499d4e10a0e6c30e5cf20cc16b57c0cc/MRI+T1_T2+Dataset.RAR).\
 Extract the rar file which has two folders <b>Tr1</b> and <b>Tr2</b>, which represents T1 weighted and T2 weighted MRI's respectively.\
 Tr1 folder has <b>TrainT1</b> which has 43 T1 weighted MRI images.\
 Tr2 folder has <b>TrainT2</b> which has 46 T2 weighted MRI images. 
